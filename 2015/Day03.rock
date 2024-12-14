@@ -1,0 +1,23 @@
+(only part one because this is a pain in the ass)
+listen to the earth
+cut the earth into continents
+rock my length
+rock my width
+let happiness be 0
+sadness is 0
+
+for nation in continents
+when nation is "^" let happiness be without 1
+otherwise when nation is "v" let happiness be with 1
+otherwise when nation is "<" let sadness be without 1
+otherwise when nation is ">" let sadness be with 1
+let variable be true
+for counter in my length with 0
+when my length at counter is happiness and my width at counter is sadness let variable be false
+yeah
+if variable is right 
+rock my length with happiness
+rock my width with sadness
+oh
+
+shout my length with 1
